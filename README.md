@@ -19,7 +19,7 @@ Until the addon is available in the community addon store, it has to be installe
 1.  Clone the Github repository to your Hass.io 
     `/addons` directory:
 
-        cd /addons
+        cd /addons/local
         git clone https://github.com/mairas/hysen-mqtt
 
 2.  Navigate to your Hass.io installation's Add-on store and click the refresh button at the top-right of the page. You should see a separate section titled "Local add-ons". Open "Hysen MQTT Gateway" and click "Install". Once the spinner stops rotating, the add-on has been installed.
